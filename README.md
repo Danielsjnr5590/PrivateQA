@@ -2,6 +2,8 @@
 
 **Fully Encrypted Private Q&A Platform powered by Zama FHE**
 
+🚀 **[Live Demo](https://private-qa.vercel.app/)** | 📖 [Documentation](#getting-started) | 🔗 [Smart Contract](https://sepolia.etherscan.io/address/0xE3f872828287d456B4b6b3d4ba1c37376F1D79CF)
+
 PrivateQA is a decentralized Q&A platform where questions and answers remain completely private through end-to-end encryption using Zama's Fully Homomorphic Encryption (FHE). Only the intended recipients can decrypt and read the content - not even the blockchain can see your data.
 
 ---
